@@ -1,0 +1,21 @@
+{
+  "name": "express-routes-errors-handlers",
+  "version": "1.0.0",
+  "description": "Example app to demonstrate routes errors handling",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "error",
+    "handling",
+    "javascript"
+  ],
+  "author": "Alexey A.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
